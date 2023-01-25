@@ -1,2 +1,2 @@
-# Streamlit-30-Days-Challenge
-This repository contains the code and instructions for Streamlit 30 days challenge tasks.
+# General Repository for the Robotics and Automation Trade
+This repository contains the code and instructions for Arduino, Python, Streamlit, Machine Learning and more!
