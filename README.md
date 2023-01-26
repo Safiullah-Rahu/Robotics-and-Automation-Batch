@@ -1,7 +1,7 @@
 # General Repository for the Robotics and Automation Trade
 This repository contains the code and instructions for Arduino, Python, Streamlit, Machine Learning and more stuff!
 
-<h2> Certifications </h2><br/>
+<h2> Coursera Certifications </h2><br/>
 
 <h3> ML Specializations </h3><br/>
 1. Machine Learning Specialization <a href="https://www.coursera.org/specializations/machine-learning-introduction">- Link</a> <br/>
