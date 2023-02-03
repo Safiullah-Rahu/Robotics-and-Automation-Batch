@@ -44,7 +44,7 @@ This repository contains the code and instructions for Arduino, Python, Streamli
 5. Meta Database Engineer Professional Certificate <a href="https://www.coursera.org/professional-certificates/meta-database-engineer">- Link</a><br/>
 6. Meta iOS Developer Professional Certificate <a href="https://www.coursera.org/professional-certificates/meta-ios-developer">- Link</a><br/>
 
-## Links to Online Learning Materials Repositories
+## Links to Online Learning and AI Materials/Repositories
 ### Computer Science courses with video lectures -> <a href="https://github.com/Developer-Y/cs-video-courses#machine-learning">Link</a>
 
 ### Machine Learning Course Notes -> <a href="https://github.com/dair-ai/ML-Course-Notes">Link</a>
