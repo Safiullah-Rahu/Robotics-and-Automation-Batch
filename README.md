@@ -50,3 +50,5 @@ This repository contains the code and instructions for Arduino, Python, Streamli
 ### Machine Learning Course Notes -> <a href="https://github.com/dair-ai/ML-Course-Notes">Link</a>
 
 ### A curated list of awesome Python frameworks, libraries, software and resources -> <a href="https://github.com/vinta/awesome-python">Link</a>
+
+### Papers for Talking Head Generation, released codes collections. -> <a href="https://github.com/harlanhong/awesome-talking-head-generation">Link</a>
