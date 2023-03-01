@@ -54,3 +54,10 @@ This repository contains the code and instructions for Arduino, Python, Streamli
 ### Papers for Talking Head Generation, released codes collections. -> <a href="https://github.com/harlanhong/awesome-talking-head-generation">Link</a>
 
 ### Search Colab : Directory for shared Colab Notebooks -> <a href="https://docs.google.com/spreadsheets/d/1xqR0lZ1Fd5WbNcEdU2zomIbdTKyrna8YlXja_5Q8hyY/edit#gid=1321374049">Link</a>
+
+### CNN Explainer Animated Website -> <a href="https://poloclub.github.io/cnn-explainer/">Link</a>
+
+## Presentations/PDFs/Docs
+
+### MIT CNN PPT -> <a href="https://drive.google.com/file/d/1rlZHz0L3bYORx3wAx_0L7bh4auQxskY9/view?usp=share_link">Link</a>
+
